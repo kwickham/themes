@@ -1,0 +1,21 @@
+/*
+Theme Name: My Hero
+Theme URI: http://mansfirstcousin.com/
+Author: Team Hero
+Author URI:  http://mansfirstcousin.com/
+Description: The first attempt at creating a theme
+License: GNU General Public License v2 or later
+License URI: http://www.gnu.org/licenses/gpl-2.0.html
+*/
+body
+{margin:0;
+padding:0;
+background-image:url('background.png');
+background-repeat:repeat-x;}
+header
+{margin:0;
+padding:0;
+background-image:url('header-background.png');
+background-repeat:repeat-x;}
+h1
+{color:#000000;}
